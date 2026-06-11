@@ -26,14 +26,6 @@
 
 Discovered a SQL Injection vulnerability in the PTSP Jakarta government portal that could allow unauthorized access to backend database information.
 
-### Technical Details
-
-| Severity Level | Impact |
-|----------------|--------|
-| **CVSS Score** | 7.5 (High) |
-| **CVSS Vector** | CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N |
-| **CWE** | CWE-89: Improper Neutralization of SQL Injection |
-
 ---
 
 ## 🔍 Vulnerability Description
